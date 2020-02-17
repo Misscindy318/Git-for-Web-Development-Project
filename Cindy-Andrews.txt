@@ -90,5 +90,4 @@ border: 1px dotted black;
 * selector
 
 
-30. How do I write a comment in CSS?
-/*   */
+

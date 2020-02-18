@@ -87,7 +87,7 @@ Text-transform
 border: 1px dotted black;
 
 29. How do I select everything on the page?
-* selector
+* selector  .
 
 
 

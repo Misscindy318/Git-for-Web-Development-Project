@@ -2,7 +2,7 @@
 https://codepen.io/MissCindy318/pen/jOPqGJQ
 
 
-CSS & HTML PRACTICE QUESTIONS
+CSS & HTML PRACTICE QUESTIONS -
 
 
 1. What is Semantic HTML?
